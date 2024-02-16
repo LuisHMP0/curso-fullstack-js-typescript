@@ -66,3 +66,7 @@ form button:hover {
     background: rgb(88, 52, 157);
 }
 
+.paragrafo-resultado {
+    background-color: green;
+}
+
